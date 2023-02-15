@@ -1,0 +1,14 @@
+.btn {
+    padding: .45rem 1.5rem .35rem;
+  }
+
+  .gradient-custom {
+    /* fallback for old browsers */
+    background: #c471f5;
+
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgb(240, 134, 134), rgb(252, 79, 79));
+
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgb(233, 146, 146), rgb(150, 81, 230))
+  }
